@@ -1,1 +1,5 @@
-# TaskFinance для fabrique
+для fabrique
+
+спек файлы находятся в директории cypress/integration
+
+баг-репорт и чеклист расположены внизу списка файлов
